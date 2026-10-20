@@ -86,7 +86,7 @@ const Disributors = () => {
                         </div>
 
                         <div className="notification pt-1 pb-2 px-3">
-                          <Link href="mailto:ihasz.v@h-itb.hu" passHref>
+                          <Link href="mailto:varga.t@h-itb.hu" passHref>
                             email: varga.t@h-itb.hu
                           </Link>
                         </div>
@@ -205,7 +205,7 @@ const Disributors = () => {
                         Hegyi Gábor
                       </span>
                       <div className="notification pt-2 pb-0 px-3 mb-0">
-                        <Link href="tel:+36 30 742 1133" passHref>
+                        <Link href="tel:+36 30 742 1127" passHref>
                           Tel: +36 30 742 1127
                         </Link>
                       </div>
@@ -375,7 +375,7 @@ const Disributors = () => {
                         </div>
 
                         <div className="notification pt-1 pb-2 px-3">
-                          <Link href="szabopapp.sz@h-itb.hu" passHref>
+                          <Link href="mailto:szabopapp.sz@h-itb.hu" passHref>
                             email: szabopapp.sz@h-itb.hu
                           </Link>
                         </div>
@@ -584,13 +584,13 @@ const Disributors = () => {
                           Kiss Brigitta
                         </span>
                         <div className="notification pt-2 pb-0 px-3 mb-0">
-                          <Link href="tel:+36 30 742 1127" passHref>
+                          <Link href="tel:+36 30 742 1139" passHref>
                             Tel: +36 30 742 1139
                           </Link>
                         </div>
 
                         <div className="notification pt-1 pb-2 px-3">
-                          <Link href="mailto:mendrea.v@h-itb.hu" passHref>
+                          <Link href="mailto:kiss.b@h-itb.hu" passHref>
                             email: kiss.b@h-itb.hu
                           </Link>
                         </div>
